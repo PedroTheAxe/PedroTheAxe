@@ -1,7 +1,7 @@
 <p align="center">
-<img height="160em" align="right" alt="stats" src="https://github-readme-stats.vercel.app/api?username=PedroTheAxe&count_private=true&hide=contribs,prs&theme=radical&hide_border=false" />
+<img height="130em" align="right" alt="stats" src="https://github-readme-stats.vercel.app/api?username=PedroTheAxe&count_private=true&hide=contribs,prs&theme=radical&hide_border=false" />
 
-<img height= "160em" align="right" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTheAxe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img height= "130em" align="right" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTheAxe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 <h2 align="left">👋 About me</h2>
 Hey! I'm Pedro.
 
