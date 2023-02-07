@@ -1,7 +1,4 @@
 <p align="center">
-<img height="130em" align="right" alt="stats" src="https://github-readme-stats.vercel.app/api?username=PedroTheAxe&count_private=true&hide=contribs,prs&theme=radical&hide_border=false" />
-
-<img height= "130em" align="right" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTheAxe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 <h2 align="left">👋 About me</h2>
 Hey! I'm Pedro.
 
@@ -9,8 +6,11 @@ I'm a Computer Science and Engineering MSc student at <b>IST</b>. I have also st
 My main areas of study are <b>Cybersecurity</b>, <b>Distributed Systems</b> and <b>Computer Networks</b>.
 
 I am currently working on my Master's Thesis, which consists of an autonomous agent for telemetry monitoring in data centers, in collaboration with <b>Nokia</b>.
-</p>
 
+<img height="160em" align="right" alt="stats" src="https://github-readme-stats.vercel.app/api?username=PedroTheAxe&count_private=true&hide=contribs,prs&theme=radical&hide_border=false" />
+
+<img height= "160em" align="right" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTheAxe&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ## 🌐 Contact me
   <p align="left">
